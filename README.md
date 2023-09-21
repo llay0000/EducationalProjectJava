@@ -1,3 +1,2 @@
 # EducationalProjectJava
 Обучение java
-Проверка
