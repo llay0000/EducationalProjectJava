@@ -9,6 +9,6 @@ public class Main {
         for (int i = 0; i <= 10; i++) {
             num =  (int)(Math.random()*100);
         }
-        System.out.println("Hello world!");
+        System.out.println("Hello");
     }
 }
