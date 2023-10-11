@@ -1,7 +1,10 @@
 public class LaCla {
     public static void main(String[] args) {
-        System.out.println("Hell");
+        String name = "Sun";
+        name += '1';
+        name = name + 42;
+
+        System.out.println(name);
 
     }
-
 }
