@@ -1,3 +1,5 @@
+package org.example;
+
 public class Check {
     int chekOne;
     char chekTwo;
